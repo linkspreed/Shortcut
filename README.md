@@ -1,10 +1,6 @@
-# shortcut
+# <img align="left" alt="Shortcut" width="100px" src="https://shortcut.tk/themes/youplay/img/icon.png" draggable="false" /> ShortCut ([Click to try 🚀](https://shortcut.tk/))
+
 Shortcut 📱 - share your life ❤️ and everything you do with the world 🌎 in short videos and discover what other people are doing in the world.🎥
-
-# <img align="left" alt="Analytix" width="40px" src="https://analytix.tk/uploads/brand/ys17CmIE61mY5SrzlKBu2UbanlIvzwW2l7qmb9PX.png" draggable="false" /> Analytix ([Click to try 🚀](https://analytix.tk/))
-
-Analytix💙 - as a developer,👨‍💻 get deep insights and analyzes for your websites📈 - free of charge, unlimited storage space and in real time
-
 
 
 ## **[Changelog 💙](https://github.com/linkspreed/Analytix/blob/main/changelog.md)** **Check out the full Analytix changelog**
