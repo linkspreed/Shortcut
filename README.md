@@ -3,8 +3,8 @@
 Shortcut 📱 - share your life ❤️ and everything you do with the world 🌎 in short videos and discover what other people are doing in the world.🎥
 
 
-## **[Changelog 💙](https://github.com/linkspreed/Analytix/blob/main/changelog.md)** **Check out the full Analytix changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/Analytix/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Analytix besides development**
+## **[Changelog 📱](https://github.com/linkspreed/Shortcut/blob/main/changelog.md)** **Check out the full Shortcut changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/Shortcut/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Shortcut besides development**
 
 
 <div align="center">
