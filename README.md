@@ -14,40 +14,16 @@ Shortcut 📱 - share your life ❤️ and everything you do with the world 🌎
 
 ## Features
 
-**DASHBOARD** – Get an overview of your account and your tracked websites.
+ - **DASHBOARD** – Get an overview of your account and your tracked videos.
 
-**STATS** – Get specific statistics & analytics reports for a website:
-- Realtime
-- Overview
-- Behavior
-    - Pages
-    - Landing pages
-    
--Acquisitions
-    - Referrers
-    - Search engines
-    - Social networks
-    - Campaigns
-    
-- Geographic
-    - Continents
-    - Countries
-    - Cities
-    - Languages
-    
-- Technology
-    - Operating systems
-    - Browsers
-    - Screen resolutions
-    - Devices
-    
-- Events
+ - **STATS** – Get specific statistics & analytics reports for your content
+ - **Chats**
+ - **Upload Videos**
+ - **Go Live**
+ - **Import Videos**
+ - **Post, Like and Comment**
+ - **AND SO MUCH MORE ...**
 
-**EXPORT** – Export your statistics & analytics reports in CSV format.
-
-**NOTIFICATIONS** – Get periodic emails about your websites performance.
-
-**AND SO MUCH MORE ...**
 
 ## More
  
