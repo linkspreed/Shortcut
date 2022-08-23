@@ -1,3 +1,6 @@
+# 23.08.2022
+ - We are now starting the launch of the new version 2.2.5
+
 # 22.08.2022
  - The update for the video streaming platforms has been pushed back a bit because we want to develop a few more features.
 
