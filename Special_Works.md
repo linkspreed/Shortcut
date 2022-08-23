@@ -1,4 +1,7 @@
 # 23.08.2022
+ - Shortcut was successfully updated to version 2.2.5
+
+# 23.08.2022
  - We are now starting the launch of the new version 2.2.5
 
 # 22.08.2022
