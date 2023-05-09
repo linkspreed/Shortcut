@@ -1,3 +1,24 @@
+### 09.05.2023 (announcement Shortcut)
+- https://github.com/linkspreed/Shortcut/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 09.05.2023 (announcement Shortcut)
+- The launch of version 3.0 of **Shortcut** was successful! 🥳
+- The new update is live now :)
+- https://shortcut.tk 🔗
+
+### 09.05.2023 (announcement Shortcut)
+- We are now starting the launch of v3.0.
+
+### 09.05.2023 (announcement Shortcut)
+- The servers are now ready for the launch of version 3.0 for **Shortcut**.
+
+### 09.05.2023 (announcement Shortcut)
+- The code is now ready for the launch of version 3.0 for **Shortcut**.
+
+### 09.05.2023 (announcement Shortcut)
+-  **Shortcut** gets a big update today - we are going to launch v3.0. 😍
+
 # 24.09.2022
  - The entire changelog for the new version (2.2.8) is now available on Github. :D
 
