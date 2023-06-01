@@ -1,3 +1,6 @@
+### 01.06.2023 (announcement Shortcut)
+- 🎥🚀 Exciting news! We're currently working on version 3.0.1 for Shortcut, our video streaming platform.👨‍💻 What new features would you like to see added? #Shortcut #VideoStreaming #Upgrade #NewFeatures 🤔
+
 ### 09.05.2023 (announcement Shortcut)
 - 🚨Exciting News Alert🚨 Our team is thrilled to announce the release of Shortcut's Version 3.0 for our video streaming platform! 🎉🙌🎬 We've been working tirelessly to bring you new features, and we can't wait for you to experience them. Check GitHub for full patch notes and documentation. What do you think of our latest update? #ShortcutUpdates #videostreaming #newfeatures 📺💻
 
