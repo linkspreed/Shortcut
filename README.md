@@ -1,4 +1,4 @@
-# <img align="left" alt="Shortcut" width="100px" src="https://shortcut.tk/themes/youplay/img/icon.png" draggable="false" /> ShortCut ([Click to try 🚀](https://shortcut.tk/)) (v3.0)
+# <img align="left" alt="Shortcut" width="100px" src="https://shortcut.tk/themes/youplay/img/icon.png" draggable="false" /> ShortCut ([Click to try 🚀](https://shortcut.tk/)) (v3.0.1)
 
 Shortcut 📱 - share your life ❤️ and everything you do with the world 🌎 in short videos and discover what other people are doing in the world.🎥
 
