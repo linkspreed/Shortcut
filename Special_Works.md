@@ -1,4 +1,28 @@
 ### 01.06.2023 (announcement Shortcut)
+- 🎉📺 Shortcut just released Version 3.0.1 of our video streaming platform! 🚀🙌 Have you updated yet? What feature are you most excited about? #ShortcutStreaming #Update #VideoStreaming 🎥
+
+### 01.06.2023 (announcement Shortcut)
+- https://github.com/linkspreed/Shortcut/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 01.06.2023 (announcement Shortcut)
+- The launch of version 3.0.1 of **Shortcut** was successful! 🥳
+- The new update is live now :)
+- https://shortcut.tk 🔗
+
+### 01.06.2023 (announcement Shortcut)
+- We are now starting the launch of v3.0.1.
+
+### 01.06.2023 (announcement Shortcut)
+- The servers are now ready for the launch of version 3.0.1 for **Shortcut**.
+
+### 01.06.2023 (announcement Shortcut)
+- The code is now ready for the launch of version 3.0.1 for **Shortcut**.
+
+### 01.06.2023 (announcement Shortcut)
+-  **Shortcut** gets a big update today - we are going to launch v3.0.1. 😍
+
+### 01.06.2023 (announcement Shortcut)
 - 🎥🚀 Exciting news! We're currently working on version 3.0.1 for Shortcut, our video streaming platform.👨‍💻 What new features would you like to see added? #Shortcut #VideoStreaming #Upgrade #NewFeatures 🤔
 
 ### 09.05.2023 (announcement Shortcut)
