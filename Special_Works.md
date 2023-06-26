@@ -1,3 +1,6 @@
+### 26.06.2023 (announcement Shortcut)
+- 🎉Exciting news! We've just added a shortcut to our subdomain system! 🔗https://shortcut.tk now redirects to https://shortcut.linkspreed.com. Nothing changes in terms of using the platform with all your existing data as usual. Have you tried it out yet? #Shortcut #Subdomain
+
 ### 01.06.2023 (announcement Shortcut)
 - 🎉📺 Shortcut just released Version 3.0.1 of our video streaming platform! 🚀🙌 Have you updated yet? What feature are you most excited about? #ShortcutStreaming #Update #VideoStreaming 🎥
 
